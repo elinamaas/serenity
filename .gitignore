@@ -1,6 +1,12 @@
 
 /target
+<<<<<<< 2bcbd1f080b4b055f03fa20b59e718f18733ad0f
 /elastic/elastic.iml
 /parent.iml
 /elastic/target
 /mongo/target
+=======
+/.idea
+/parent.iml
+/elastic/elastic.iml
+>>>>>>> .gitignore
