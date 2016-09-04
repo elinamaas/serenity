@@ -1,2 +1,7 @@
 
 /target
+/elastic/elastic.iml
+/parent.iml
+/elastic/target/elastic-0.0.1-SNAPSHOT.jar
+/elastic/target/maven-archiver/pom.properties
+/elastic/target/elastic-0.0.1-SNAPSHOT-tests.jar
