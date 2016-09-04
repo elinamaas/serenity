@@ -20,6 +20,7 @@
 
     <modules>
         <module>elastic</module>
+        <module>mongo</module>
     </modules>
 
     <properties>
