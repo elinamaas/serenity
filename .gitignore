@@ -2,12 +2,5 @@
 /target
 /elastic/elastic.iml
 /parent.iml
-/elastic/target/elastic-0.0.1-SNAPSHOT.jar
-/elastic/target/maven-archiver/pom.properties
-/elastic/target/elastic-0.0.1-SNAPSHOT-tests.jar
 /elastic/target
-/mongo/target/mongo-0.0.1-SNAPSHOT.jar
-/mongo/target/mongo-0.0.1-SNAPSHOT-tests.jar
-/mongo/target/maven-archiver/pom.properties
-/mongo/target/classes
-/mongo/target/maven-status
+/mongo/target
