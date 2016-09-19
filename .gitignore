@@ -8,3 +8,4 @@
 /elastic/target/elastic-0.0.1-SNAPSHOT.jar
 /elastic/target/classes
 /elastic/target/maven-status
+/elastic/target/maven-archiver/pom.properties
